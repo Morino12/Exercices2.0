@@ -1,0 +1,5 @@
+La liste de couleurs est : 
+Bleu
+blanc
+vert
+rouge
